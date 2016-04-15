@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "JGDialMenu"
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.summary          = "A circular spinning dial menu inspired from buzzfeed app."
 
 # This description is used to generate tags and improve search results.

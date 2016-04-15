@@ -88,7 +88,7 @@
 -(void)addDial{
     DialItem *menuCenter = [self viewForMainItemInMenu:nil image:[UIImage imageNamed:@"center"] title:@""];
     CGPoint centerPoint = CGPointMake((menuCenter.frame.size.width/2) + 5, self.view.frame.size.height - ((menuCenter.frame.size.height/2) + 5)) ;
-    //centerPoint = self.view.center;
+    centerPoint = self.view.center;
     UIImage *imageselected = [UIImage imageNamed:@"open-smiles"];
     UIImage *imageunselected = [UIImage imageNamed:@"big-like"];
 
