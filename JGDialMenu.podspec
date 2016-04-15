@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = "JGDialMenu"
   s.version          = "0.1.1"
-  s.summary          = "A circular spinning dial menu inspired from buzzfeed app."
+  s.summary          = "A circular spinning dial menu inspired from buzzfeed app. Check out the example for more details."
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.description      = "A circular spinning dial menu inspired from buzzfeed app."
 
   s.homepage         = "https://github.com/JayGajjar/JGDialMenu"
-  # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
+  s.screenshots      = "https://postimg.org/image/a0q4jqyb1/"
   s.license          = 'MIT'
   s.author           = { "Jay Gajjar" => "jaygajjar77@gmail.com" }
   s.source           = { :git => "https://github.com/JayGajjar/JGDialMenu.git", :tag => s.version.to_s }
