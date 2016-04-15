@@ -1,13 +1,17 @@
 //
-//  JGViewController.h
+//  ViewController.h
 //  JGDialMenu
 //
-//  Created by iOS Dev on 04/13/2016.
-//  Copyright (c) 2016 iOS Dev. All rights reserved.
+//  Created by Jay on 10/12/15.
+//  Copyright © 2015 Jay. All rights reserved.
 //
 
-@import UIKit;
+#import <UIKit/UIKit.h>
+#import "JGMenuDial.h"
 
 @interface JGViewController : UIViewController
 
+@property (readwrite, strong, nonatomic) JGMenuDial *wheel;
+
 @end
+
