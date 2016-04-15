@@ -9,7 +9,12 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+![JGDialMenu](https://s9.postimg.org/t1zdx0ngf/Simulator+Screen+Shot+15-Apr-2016,+4.23.22+PM.png)
+
 ## Requirements
+
+- iOS 8.0+
+- Xcode 7.3+
 
 ## Installation
 
@@ -22,7 +27,7 @@ pod "JGDialMenu"
 
 ## Author
 
-iOS Dev, jaygajjar77@gmail.com
+Jay Gajjar, jaygajjar77@gmail.com
 
 ## License
 
